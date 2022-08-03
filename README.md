@@ -1,2 +1,2 @@
 # awesome-open-source-low-code
-Documenting Open Source Low Code
+Documenting Open Source Low Code Awesomeness
